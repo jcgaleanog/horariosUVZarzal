@@ -1,3 +1,3 @@
 # horariosUVZarzal
 
-Codiogs de la aplicación enel semiller
+Codiogs de la aplicación en el semiller
